@@ -27,7 +27,7 @@ At the center is the **CEO (You)**. All agents operate underneath your command. 
 
 The system uses a top-down command structure where the CEO directs the firm, the Secretary assists with logic/memory, and the Pipeline orchestrates the specialized agents.
 
-```mermaid
+
 graph TD
     User[CEO You] -->|Commands| UI[CEO Interface ui.py]
     UI -->|Directives| Pipe[Pipeline Orchestrator]
