@@ -1,2 +1,13 @@
+flask
+requests
+transformers
+torch
+pandas
 numpy
+duckduckgo-search
+beautifulsoup4
+faiss-cpu
+sentencepiece
+pydantic
+python-dotenv
 scipy
